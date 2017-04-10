@@ -4,7 +4,7 @@ Creates individual iterations of fractals for use with a laser cutter
 
 
 
-[fractal](example.png)
+![fractal](example.png)
 
 
 ### Setup
